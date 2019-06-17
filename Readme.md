@@ -8,7 +8,7 @@ Up to 4 players can play. At the beginning of each round, each player is dealt 1
 
 1. Royal Flush (highest rank). Eg, 10 :spades:, J :spades:, Q :spades:, K :spades:, A :spades:.
 2. Straight Flush. Eg, 7 :diamonds:, 8 :diamonds:, 9 :diamonds:, 10 :diamonds:, J :diamonds:.
-3. Four of a Kind. Eg, K :diamonds:, K :hearts:, K :clubs, K :spades:, 2 :diamonds:.
+3. Four of a Kind. Eg, K :diamonds:, K :hearts:, K :clubs:, K :spades:, 2 :diamonds:.
 4. Full House. Eg, 6 :hearts:, 6 :diamonds:, 6 :clubs:, 2 :spades:, 2 :clubs:
 5. Flush. Eg, 3 :spades:, 5 :spades:, 8 :spades:, J :spades:, A :spades:.
 6. Straight. Eg, A :hearts:, 2 :diamonds:, 3 :spades:, 4 :diamonds:, 5 :clubs:.
@@ -70,7 +70,7 @@ When comparing 2 sets of high cards with exactly the same numbers, the suits of 
 - West Player: 2 :spades:, 6 :diamonds:, 8 :clubs:, 10 :diamonds:, K :spades:
 - North Player: 2 :diamonds:, 6 :clubs:, 8 :hearts:, 10 :diamonds:, K :clubs:
 
-The suits of the highest card (K) will be compared. In this case West Player wins, since his suit (Spades) is higher than North Player's suit (Clubs). The rankings of suits are :spades: (Spades), :hearts: (Hearts), :clubs: (Clubs), :diamonds: (Diamonds). :spades: is the highest suit and :diamonds: is the lowest suit.
+The suits of the highest card (K) will be compared. In this case West Player wins, since his suit :spades: (Spades) is higher than North Player's suit :clubs: (Clubs). The rankings of suits are :spades: (Spades), :hearts: (Hearts), :clubs: (Clubs), :diamonds: (Diamonds). :spades: is the highest suit and :diamonds: is the lowest suit.
 
 When comparing 2 sets fo Pair cards, and the pairs happen to be of the same numbers, the highest card that accompanies the pair will be compared. Eg:
 
