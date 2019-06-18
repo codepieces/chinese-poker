@@ -21,6 +21,8 @@ The front cards can only form Three of a Kind, Pair & High Cards.
 
 When all players have arranged their cards, score is calculated using 1-6 method (see Scoring section in Wikipedia). Example:
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvbNPXt1aAOSWQLyvj_HcTTV82a8T2yLf42_SpWtQF4AuVpys)
+
 - North Player:
     - K :clubs:, 10 :spades:, 2 :clubs:
     - 9 :hearts:, 8 :diamonds:, 7 :hearts:, 6 :diamonds:, 5 :diamonds:
